@@ -1,0 +1,35 @@
+{
+  "name": "riki",
+  "description": "A command line based chat app made in nodejs",
+  "version": "0.1.0",
+  "homepage": "https://github.com/shash7/riki",
+  "author": {
+    "name": "shash7",
+    "email": "shashwat.amin@yahoo.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shash7/riki"
+  },
+  "bugs": {
+    "url": "https://github.com/shash7/riki/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/shash7/riki/blob/master/README.md"
+    }
+  ],
+  "main": "lib/riki",
+  "engines": {
+    "node": "0.8"
+  },
+  "keywords": [],
+  "preferGlobal": "true",
+  "bin": {
+    "riki": "bin/riki.js"
+  },
+  "dependencies": {
+    "cli-color": "^0.3.2"
+  }
+}
