@@ -1,7 +1,9 @@
 riki
 ====
 
-A command line based chat app made in nodejs
+A command line chat app made in nodejs
+
+---- In development ----
 
 Notes :
 

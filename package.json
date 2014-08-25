@@ -1,7 +1,7 @@
 {
   "name": "riki",
   "description": "A command line based chat app made in nodejs",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/shash7/riki",
   "author": {
     "name": "shash7",
@@ -30,6 +30,8 @@
     "riki": "bin/riki.js"
   },
   "dependencies": {
-    "cli-color": "^0.3.2"
+    "cli-color": "^0.3.2",
+    "cliff": "^0.1.8",
+    "prompt": "^0.2.13"
   }
 }
